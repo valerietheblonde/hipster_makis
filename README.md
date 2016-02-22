@@ -15,6 +15,6 @@ my first attempt at [Maki-Style](https://github.com/mapbox/maki) symbols
 * add unpresedented levels of personal curation by using [maki-chef](https://www.mapbox.com/maki-chef/)  
 * includes seamless pattern png, perfect for [cool new homepage](http://jonahadkins.github.io) backgrounds
 
-*all design credit to [RCVA](https://www.rvca.com), the manufacturer of the shirt.*  
+*all design credit to [RVCA](https://www.rvca.com), the manufacturer of the shirt.*  
 
 enjoy!
